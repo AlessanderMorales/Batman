@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+.contenedor{
+    text-align: center;
+    
+}
+
+.contenedor p {
+    max-width: 1000px; 
+}
